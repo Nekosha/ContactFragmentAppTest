@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:drawablePadding="8dp"
+    android:gravity="center_horizontal|center_vertical"
+    android:id="@+id/contact_entry"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/text_margin"
+    android:layout_width="wrap_content"
+    android:text="Placeholder"
+    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+    app:drawableLeftCompat="@mipmap/contact_icon_round"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
